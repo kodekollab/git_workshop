@@ -2,6 +2,16 @@
 
 This README file contains a collection of Git case studies to help your team learn and understand various Git concepts and workflows.
 
+## Git Case Study: My First Git App
+
+## Objective
+The objective of this case study is to familiarize yourself with Git commands and perform basic operations such as creating a project, creating a README file, adding content, committing the file, and pushing it to a remote repository. This case study will help you get started with Git and understand the basic workflow.
+
+## Prerequisites
+1. Ubuntu operating system installed on your machine.
+2. Git installed on your machine. If not installed, run `sudo apt-get install git` to install Git.
+
+
 ## Case Study 1: Learning GitLab - Managing Branches and Commits
 
 Objective:
