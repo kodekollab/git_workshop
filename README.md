@@ -28,6 +28,15 @@ The objective of this case study is to provide training to your team on the usag
 - Stashing changes to save work in progress
 - Applying and managing stashed changes effectively
 
+## Case Study 4: Verifying Logs and Other Git Commands
+
+Objective:
+The objective of this case study is to familiarize your team with additional Git commands for verifying logs, examining changes, and other helpful operations. The case study will cover the following topics:
+- Checking commit history and logs
+- Examining changes with `git diff`
+- Using `git blame` to track changes
+- Utilizing various other Git commands for managing branches and repositories
+
 Feel free to navigate to each individual case study to access the detailed instructions and steps for each scenario.
 
 Refer to the respective case study for more details and step-by-step instructions.
