@@ -4,7 +4,7 @@ This README file contains a collection of Git case studies to help your team lea
 
 ## Git Case Study: My First Git App
 
-Objective
+#### Objective:
 The objective of this case study is to familiarize yourself with Git commands and perform basic operations such as creating a project, creating a README file, adding content, committing the file, and pushing it to a remote repository. This case study will help you get started with Git and understand the basic workflow.
 
 ## Prerequisites
@@ -14,7 +14,7 @@ The objective of this case study is to familiarize yourself with Git commands an
 
 ## Case Study 1: Learning GitLab - Managing Branches and Commits
 
-Objective:
+#### Objective:
 The objective of this case study is to help your team learn how to use GitLab for version control and collaboration. The case study covers the following topics:
 - Creating a project
 - Creating a branch
@@ -23,7 +23,7 @@ The objective of this case study is to help your team learn how to use GitLab fo
 
 ## Case Study 2: Resolving Merge Conflicts
 
-Objective:
+#### Objective:
 The objective of this case study is to demonstrate how to resolve merge conflicts that may arise when collaborating on a project using GitLab. The case study covers the following topics:
 - Creating a project
 - Creating branches with conflicting changes
@@ -32,7 +32,7 @@ The objective of this case study is to demonstrate how to resolve merge conflict
 
 ## Case Study 3: Git Stash - Managing Work in Progress
 
-Objective:
+#### Objective:
 The objective of this case study is to provide training to your team on the usage of Git's stash feature for managing work in progress. The case study covers the following topics:
 - Understanding the purpose and benefits of using Git's stash feature
 - Stashing changes to save work in progress
@@ -40,7 +40,7 @@ The objective of this case study is to provide training to your team on the usag
 
 ## Case Study 4: Verifying Logs and Other Git Commands
 
-Objective:
+#### Objective:
 The objective of this case study is to familiarize your team with additional Git commands for verifying logs, examining changes, and other helpful operations. The case study will cover the following topics:
 - Checking commit history and logs
 - Examining changes with `git diff`
