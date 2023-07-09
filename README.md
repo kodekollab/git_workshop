@@ -4,7 +4,7 @@ This README file contains a collection of Git case studies to help your team lea
 
 ## Git Case Study: My First Git App
 
-## Objective
+Objective
 The objective of this case study is to familiarize yourself with Git commands and perform basic operations such as creating a project, creating a README file, adding content, committing the file, and pushing it to a remote repository. This case study will help you get started with Git and understand the basic workflow.
 
 ## Prerequisites
